@@ -9,6 +9,6 @@ The single player game uses pygame. While the AI version also uses NEAT. The AI 
 I made this game to learn more about AI. Although there aren't any images, the game is still fun to play.
 
 Here's a video of the model training
-![video](https://drive.google.com/file/d/1mHWfcHLRBrSrSaKAz9iWZMlvy_EJB9Tl/view?usp=sharing)
+[video](https://drive.google.com/file/d/1mHWfcHLRBrSrSaKAz9iWZMlvy_EJB9Tl/view?usp=sharing)
 # Disclaimer
 Don't be fooled by the speed in the beginning. The further you go the faster it gets, only bots can stay alive after 100 points ;)
